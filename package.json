@@ -1,0 +1,9 @@
+{
+  "name": "mesh-scan-studio-mvp",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/test_mesh.mjs"
+  }
+}
